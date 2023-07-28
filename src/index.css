@@ -2,7 +2,7 @@
   background-color: aquamarine;
 }
 
-.App {
+.app {
   display: flex;
   justify-content: space-around;
   padding: 30px;
@@ -18,4 +18,9 @@
 .score {
   text-align: end;
   font-size: 50px;
+}
+
+.game img {
+  width: 70px;
+  height: 70px;
 }
